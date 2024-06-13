@@ -2,7 +2,7 @@ import {CodeOrg, BlockWorkspace, Header} from 'libprotolab/layout/CodeOrg'
 import {blocklyOptions} from './blocks/'
 import {Save, Load, Reset, Run} from 'libprotolab/blockly/workspace/buttons'
 
-export const LAB_NAME = "Protolab"
+export const LAB_NAME = "dayneLab"
 
 const Toolbar = () =>
   <div style={{
